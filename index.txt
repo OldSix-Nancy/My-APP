@@ -1,0 +1,15 @@
+<html>
+    <body>
+        <div>
+            <p>
+                Hello All!
+            </p>
+            <p>
+                Enjoy the Class DATA 2021
+            </p>
+        </div>
+        <p>
+            Thank you!
+        </p>
+    </body>
+</html>
