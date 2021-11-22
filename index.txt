@@ -9,7 +9,7 @@
             </p>
         </div>
         <p>
-            Thank you!
+            Thank you very much for the class!
         </p>
     </body>
 </html>
