@@ -2,7 +2,7 @@
     <body>
         <div>
             <p>
-                Hello All. All the very best!
+                Hello All!
             </p>
             <p>
                 Enjoy the Class DATA 2021
